@@ -1,0 +1,27 @@
+This is a file part 1
+Something in the next line
+    Something the nxt level
+    Same level
+    Something next
+        Next level
+
+This is a file part 2
+Something in the next line
+    Something the nxt level
+    Same level
+    Something next
+        Next level
+
+This is a file part 3
+Something in the next line
+    Something the nxt level
+    Same level
+    Something next
+        Next level
+
+This is a file part 4
+Something in the next line
+    Something the nxt level
+    Same level
+    Something next
+        Next level
